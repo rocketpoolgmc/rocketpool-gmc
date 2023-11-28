@@ -108,7 +108,7 @@ const bounties = [
       'Creating an independent implementation of treegen, and supporting testing for each new tree spec.',
     fineprint: '',
     status: 'Open',
-    url: 'https://dao.rocketpool.net/t/july-2023-gmc-call-for-bounty-applications-deadline-is-july-15th/1936/7',
+    url: 'https://dao.rocketpool.net/t/round-5-gmc-call-for-bounty-applications-deadline-is-october-7/2191/3',
     linkTitle: 'View Details',
   },
   {
@@ -122,7 +122,7 @@ const bounties = [
       'Improve the LST comparison dashboard at https://dune.com/rp_community/lst-comparison.',
     fineprint: '',
     status: 'Open',
-    url: 'https://dao.rocketpool.net/t/july-2023-gmc-call-for-bounty-applications-deadline-is-july-15th/1936/7',
+    url: 'https://dao.rocketpool.net/t/round-5-gmc-call-for-bounty-applications-deadline-is-october-7/2191/2',
     linkTitle: 'View Details',
   },
   {
