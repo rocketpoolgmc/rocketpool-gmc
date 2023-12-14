@@ -1,0 +1,18 @@
+---
+rounds:
+  - round: 6
+    start: 2023-10-08
+    end: 2023-11-11
+    result: 2023-11-26
+    payout: 2023-12-15
+  - round: 7
+    start: 2023-11-11
+    end: 2023-12-10
+    result: 2023-12-31
+    payout: 2024-01-15
+  - round: 8
+    start: 2023-12-10
+    end: 2024-01-14
+    result: 2024-01-28
+    payout: 2024-02-15
+---
