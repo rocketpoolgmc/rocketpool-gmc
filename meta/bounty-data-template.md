@@ -3,6 +3,7 @@ title:
 code: 
 status: 
 repeatable: 
+expiry: 
 summary: 
 reward: 
 skillsets:
