@@ -1,23 +1,23 @@
 ---
-title: 
 code: 
+title: 
+author: 
+date: 
 status: 
-repeatable: 
-expiry: 
 summary: 
 reward: 
+repeatable: 
+expiry: 
+discussion-url:
+application-url:
 linked-bounties:
   - 
 skillsets:
   - 
-date: 
-author: 
-contacts:
-  - 
 tags: 
   - 
-discussion-url:
-application-url:
+contacts:
+  - 
 ---
 
 ## Summary 
