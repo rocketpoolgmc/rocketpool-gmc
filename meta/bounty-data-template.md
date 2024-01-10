@@ -6,6 +6,8 @@ repeatable:
 expiry: 
 summary: 
 reward: 
+linked-bounties:
+  - 
 skillsets:
   - 
 date: 
@@ -16,8 +18,6 @@ tags:
   - 
 discussion-url:
 application-url:
-linked-bounties:
-  - 
 ---
 
 ## Summary 
