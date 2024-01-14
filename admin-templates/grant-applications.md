@@ -1,21 +1,23 @@
-# Round (#) - GMC Call for Grant Applications - Deadline is (Month) (Day)
+# Round (#) - GMC Call for Grant Applications - Deadline is (MONTH) (DAY)
 
-This thread is for applications for Rocket Pool’s December 10, 2023 - January 28, 2024 grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](https://dao.rocketpool.net/t/round-8-gmc-community-discussion-of-submitted-applications/2557) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by January 14, 2024 at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next grant period.
+This thread is for applications for Rocket Pool’s (MONTH) (DAY), (YEAR) - (MONTH) (DAY), (YEAR) grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](https://dao.rocketpool.net/t/round-8-gmc-community-discussion-of-submitted-applications/2557) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by (MONTH) (DAY), (YEAR) at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next grant period.
 
-This is the expected schedule for round 8:
+This is the expected schedule for round (#):
 
-* Application Period (December 10th - January 14th)
-* Application Discussion Meetings - one for each subcommittee (January 18th - January 19th)
-* Negotiation Period (January 18th - January 23rd)
-* Scoring Deadline (January 23rd)
-* Final Voting Amendments, Discussion and Finalization (January 24th - January 26th)
-* Award Announcement (January 28th)
+* Application Period ((MONTH) (DAY) - (MONTH) (DAY))
+* Application Discussion Meetings - one for each subcommittee ((MONTH) (DAY) - (MONTH) (DAY))
+* Negotiation Period ((MONTH) (DAY) - (MONTH) (DAY))
+* Scoring Deadline ((MONTH) (DAY))
+* Final Voting Amendments, Discussion and Finalization ((MONTH) (DAY) - (MONTH) (DAY))
+* Award Announcement ((MONTH) (DAY))
 
-**Please note the following differences between grants and bounties.** Grants are intended to be applied for by those who are wishing to carry out the work themselves. Bounties are open-ended goals that could be met by anyone, including those other than the proposing party. In other words, if I believed that Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes and I wanted to be the one to built it, I would apply for a grant. If I instead thought Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes but I wanted it to be open to whoever built it first to claim the reward (similar to a prize), then I’d apply for a bounty.
+[details="Differences Between Grants and Bounties"] 
+Grants are intended to be applied for by those who are wishing to carry out the work themselves. Bounties are open-ended goals that could be met by anyone, including those other than the proposing party. In other words, if I believed that Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes and I wanted to be the one to built it, I would apply for a grant. If I instead thought Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes but I wanted it to be open to whoever built it first to claim the reward (similar to a prize), then I’d apply for a bounty.
+[/details]
 
 To guide you in your application, the GMC has established the following goals and the following scoring rubric:
 
-## GMC Goals
+[details="GMC Goals"]
 
 Grants, bounties, and retrospective awards should make it easier and/or more attractive to do one or more of the following:
 
@@ -26,8 +28,9 @@ operate a node, mint rETH
 hold or use rETH
 
 improve the quality of life for the protocol and its community.
+[/details]
 
-## Grants Rubric
+[details="Grants Rubric"]
 
 When evaluating grant applications, the GMC takes into account the following goals:
 
@@ -36,6 +39,7 @@ If the application is successful, to what extent does it further the GMC goals?
 To what extent can the application be feasibly carried out by the person(s) proposed to complete it?
 
 If the application is successful, how large is the benefit to the protocol relative to the size of the proposed costs
+[/details]
 
 ## Grants Application
 
