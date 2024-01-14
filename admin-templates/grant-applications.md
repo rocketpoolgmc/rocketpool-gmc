@@ -1,6 +1,6 @@
 # Round (#) - GMC Call for Grant Applications - Deadline is (MONTH) (DAY)
 
-This thread is for applications for Rocket Pool’s (MONTH) (DAY), (YEAR) - (MONTH) (DAY), (YEAR) grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](LINK) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by (MONTH) (DAY), (YEAR) at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next grant period.
+This thread is for applications for Rocket Pool’s (MONTH) (DAY), (YEAR) - (MONTH) (DAY), (YEAR) grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](LINK) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by (MONTH) (DAY), (YEAR) at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next award period.
 
 This is the expected schedule for round (#):
 
