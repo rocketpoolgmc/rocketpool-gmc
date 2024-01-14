@@ -21,27 +21,27 @@ To guide you in your application, the GMC has established the following goals an
 
 Grants, bounties, and retrospective awards should make it easier and/or more attractive to do one or more of the following:
 
-become a node operator
+- become a node operator
 
-operate a node, mint rETH
+- operate a node, mint rETH
 
-hold or use rETH
+- hold or use rETH
 
-improve the quality of life for the protocol and its community.
+- improve the quality of life for the protocol and its community.
 </details>
 
 <details><summary>Grants Rubric</summary>
 
 When evaluating grant applications, the GMC takes into account the following goals:
 
-If the application is successful, to what extent does it further the GMC goals?
+- If the application is successful, to what extent does it further the GMC goals?
 
-To what extent can the application be feasibly carried out by the person(s) proposed to complete it?
+- To what extent can the application be feasibly carried out by the person(s) proposed to complete it?
 
-If the application is successful, how large is the benefit to the protocol relative to the size of the proposed costs
+- If the application is successful, how large is the benefit to the protocol relative to the size of the proposed costs
 </details>
 
-## Grants Application
+## Grant Application Template
 
 Please copy paste the template below into a reply. Answer the questions there, feel free to remove or add sections based on relevance.
 
