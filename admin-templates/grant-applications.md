@@ -17,7 +17,7 @@ Grants are intended to be applied for by those who are wishing to carry out the 
 
 To guide you in your application, the GMC has established the following goals and the following scoring rubric:
 
-[details="GMC Goals"]
+<details><summary>GMC Goals</summary>
 
 Grants, bounties, and retrospective awards should make it easier and/or more attractive to do one or more of the following:
 
@@ -28,9 +28,9 @@ operate a node, mint rETH
 hold or use rETH
 
 improve the quality of life for the protocol and its community.
-[/details]
+</details>
 
-[details="Grants Rubric"]
+<details><summary>Grants Rubric</summary>
 
 When evaluating grant applications, the GMC takes into account the following goals:
 
@@ -39,7 +39,7 @@ If the application is successful, to what extent does it further the GMC goals?
 To what extent can the application be feasibly carried out by the person(s) proposed to complete it?
 
 If the application is successful, how large is the benefit to the protocol relative to the size of the proposed costs
-[/details]
+</details>
 
 ## Grants Application
 
