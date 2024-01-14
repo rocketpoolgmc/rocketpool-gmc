@@ -55,6 +55,7 @@ Please copy paste the template below into a reply. Answer the questions there, f
 ### Why are you writing this bounty proposal?
 
 
+
 ## Benefit
 
 <please enter N/A where appropriate>
@@ -89,6 +90,7 @@ Please copy paste the template below into a reply. Answer the questions there, f
 ### How much work will be needed to verify this bounty has been completed? What skillsets or knowledge will be required?
 
 
+
 ## Structure
 
 ### How would you structure this bounty, and why? 
@@ -101,6 +103,7 @@ Please copy paste the template below into a reply. Answer the questions there, f
 ### Is this bounty repeatable?
 
 ### Are there any reasonable circumstances under which this bounty should be withdrawn? Should it expire?
+
 
 
 ## Conflicts of Interest

@@ -46,7 +46,7 @@ When evaluating grant applications, the GMC takes into account the following goa
 Please copy paste the template below into a reply. Answer the questions there, feel free to remove or add sections based on relevance.
 
 ```
-## Name of Project
+## Name of Grant
 
 ### What is the work being proposed?
 
@@ -54,7 +54,11 @@ Please copy paste the template below into a reply. Answer the questions there, f
 
 ### Will the results of this project be entirely open source ([MIT](https://opensource.org/licenses/MIT), [GPL](https://www.gnu.org/licenses/gpl-3.0.en.html), [Apache](https://www.apache.org/licenses/LICENSE-2.0), [CC BY](https://creativecommons.org/licenses/by/4.0/) license or similar)? If not, which parts will not be, why, and under what license will they be published?
 
-## Benefits - enter N/A where appropriate
+
+
+## Benefit
+
+<please enter N/A where appropriate>
 
 | Group | Benefits |
 |---|---|
@@ -65,9 +69,11 @@ Please copy paste the template below into a reply. Answer the questions there, f
 | Community |  If the grant is successfully completed, how does this help the Rocket Pool community? |
 | RPL holders |  If the grant is successfully completed, how does this help RPL holders? |
 
-### What other non-RPL protocols, DAOs, projects, or individuals, would stand to benefit from this grant?
+### Which other non-RPL protocols, DAOs, projects, or individuals, would stand to benefit from this grant?
 
-## Team
+
+
+## Work
 
 ### Who is doing the work?
 
@@ -79,7 +85,9 @@ Please copy paste the template below into a reply. Answer the questions there, f
 
 ### How will the work be maintained after delivery?
 
-## Payment and Verification
+
+
+## Costs
 
 ### What is the acceptance criteria?
 
@@ -90,6 +98,8 @@ Please copy paste the template below into a reply. Answer the questions there, f
 ### How will the GMC verify that the work delivered matches the proposed cadence?
 
 ### What alternatives or options have been considered in order to save costs for the proposed project?
+
+
 
 ## Conflict of Interest
 
