@@ -1,6 +1,6 @@
 # Round (#) - GMC Call for Grant Applications - Deadline is (MONTH) (DAY)
 
-This thread is for applications for Rocket Pool’s (MONTH) (DAY), (YEAR) - (MONTH) (DAY), (YEAR) grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](https://dao.rocketpool.net/t/round-8-gmc-community-discussion-of-submitted-applications/2557) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by (MONTH) (DAY), (YEAR) at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next grant period.
+This thread is for applications for Rocket Pool’s (MONTH) (DAY), (YEAR) - (MONTH) (DAY), (YEAR) grants. Please only post grant applications in this thread. If you would like to discuss and/or ask questions about any applications you see in this thread, we ask that you do so in this [separate forum thread (link)](LINK) which has been established for all community discussions related to this round of applications. Only those grant applications that are posted in this thread and timestamped by (MONTH) (DAY), (YEAR) at 23:59 (11:59 PM) UTC will be considered. Any grants posted after that deadline will be carried over to the next grant period.
 
 This is the expected schedule for round (#):
 
@@ -11,9 +11,9 @@ This is the expected schedule for round (#):
 * Final Voting Amendments, Discussion and Finalization ((MONTH) (DAY) - (MONTH) (DAY))
 * Award Announcement ((MONTH) (DAY))
 
-[details="Differences Between Grants and Bounties"] 
+<details><summary>Differences Between Grants and Bounties</summary> 
 Grants are intended to be applied for by those who are wishing to carry out the work themselves. Bounties are open-ended goals that could be met by anyone, including those other than the proposing party. In other words, if I believed that Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes and I wanted to be the one to built it, I would apply for a grant. If I instead thought Rocket Pool needed a fifty-foot paper mache orange rocket for publicity purposes but I wanted it to be open to whoever built it first to claim the reward (similar to a prize), then I’d apply for a bounty.
-[/details]
+</details>
 
 To guide you in your application, the GMC has established the following goals and the following scoring rubric:
 
