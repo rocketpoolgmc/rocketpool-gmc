@@ -15,4 +15,9 @@ rounds:
     end: 2024-01-14
     result: 2024-01-28
     payout: 2024-02-15
+  - round: 9
+    start: 2024-01-14
+    end: 2024-02-11
+    result: 2024-02-25
+    payout: 2024-03-15
 ---
