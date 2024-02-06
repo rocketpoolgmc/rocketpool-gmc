@@ -10,7 +10,7 @@
 * Use 'MAY' statements for optional milestones.
 * Ensure all text is written for the bounty hunter as the audience. Remove or reword anything addressed to the GMC.
 * In the event external parties are referenced, make it clear how the bounty hunter is to interact with them. For example, if person X is verifying the work, does the bounty hunter speak to X directly, or does this take place via the GMC.
-* Do not include statements committing external parties to work if they have not agreed to do it. For example, you cannot commit the core team to review something unless they have agreed that they will review it.
+* Do not include statements committing external parties to work if they have not agreed to do it. For example, you cannot commit the core team to review work unless they have agreed that they will review it.
 * Do not introduce variables outside of a bounty hunter's control. For example, the pDAO should not need to sign off on a bounty payout. If the pDAO needs to sign off, it should sign off on the bounty definition before it is opened to bounty hunters.
 * Clearly list any dependencies, if the bounty cannot be completed in all circumstances.
 
