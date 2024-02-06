@@ -1,13 +1,28 @@
 # Bounty Definition Template
 
 ## Guidelines
-* When a single proposal bounty proposal has parts that must be completed by different groups, it should become multiple definitions. 
-* Where reasonably possible, bountiy definitions should limit the number of distinct skillsets required for completion of the bounty.
-* Bounties should be defined in terms of the smallest worthwhile unit of work. IE: $25 to add/update a single relevant FAQ question rather than $5,000 to update the FAQ.
-* Include any information or resources that might reasonably help a bounty hunter complete the bounty.
-* Think carefully about which tasks are required, and which can be optional.
+
+### Avoiding Ambiguity
+* Try to minimize ambiguity and uncertainty as much as possible.
+* Use 'MUST' and 'SHOULD' statements for required milestones. 
+  * 'MUST' denotes something without which no money will be paid out. 
+  * 'SHOULD' denotes something that is expected to be completed, but the bounty may still be paid out if a good reason is provided by the bounty hunter for its lack.
+* Use 'MAY' statements for optional milestones.
+* Ensure all text is written for the bounty hunter as the audience. Remove or reword anything addressed to the GMC.
+* In the event external parties are referenced, make it clear how the bounty hunter is to interact with them. For example, if person X is verifying the work, does the bounty hunter speak to X directly, or does this take place via the GMC.
+* Do not include statements committing external parties to work if they have not agreed to do it. For example, you cannot commit the core team to review something unless they have agreed that they will review it.
+* Do not introduce variables outside of a bounty hunter's control. For example, the pDAO should not need to sign off on a bounty payout. If the pDAO needs to sign off, it should sign off on the bounty definition before it is opened to bounty hunters.
 * Clearly list any dependencies, if the bounty cannot be completed in all circumstances.
+
+### Structure
+* When a single proposal bounty proposal has parts that cannot be completed by the same bounty hunter, it should be split into multiple definitions. 
+* Bounties should be defined in terms of the smallest worthwhile unit of work. For example, $25 to add/update a single relevant FAQ question rather than $5,000 to update the FAQ.
 * Only include multiple milestones for large bounties with natural points of division.
+
+### Other Notes
+* Where reasonably possible, bounty definitions should limit the number of distinct skill sets required for completion of the bounty.
+* Include any information or resources that might reasonably help a bounty hunter complete the bounty.
+
 
 ## Template
 
