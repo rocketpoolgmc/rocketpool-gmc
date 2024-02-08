@@ -73,6 +73,9 @@ Clear bulleted list of the items that would contribute to payout for this milest
 ## Further Notes
 Anything you think that would be beneficial for a bounty hunter to know when working on this bounty. Maybe be divided into subsections as needed.
 
+## Verification
+Who is expected to verify that the work delivered meets the relevant milestones? This person or group must have agreed to do this in advance of this definition being published. This person or group should have any relevant skillsets needed to properly verify the bounty work.
+
 ## Resources
 Links to repositories, web pages, forum discussions, etc. Anything that the bounty hunter may be able to use to do a better job on the bounty work. 
 
@@ -83,9 +86,4 @@ Contacts:
 * MAY be eligible for incentives.
 * SHOULD NOT assist the bounty hunter directly with the bounty work.
 * SHOULD assist bounty hunters via feedback, direction and oversight upon request.
-
-## Verification
-Who is expected to verify that the work delivered meets the relevant milestones? This person or group must have agreed to do this in advance of this definition being published. This person or group should have any relevant skillsets needed to properly verify the bounty work.
-
-
 ```

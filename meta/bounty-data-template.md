@@ -2,8 +2,8 @@
 code: 
 title: 
 author: 
-date: 
-status: 
+creation-date: 
+external-status: 
 summary: 
 reward: 
 repeatable: 
@@ -27,20 +27,18 @@ contacts:
 ## Required Milestones
 
 ### Milestone A - <Name of Milestone>
-**Payout: ** <payout amount>
+**Payout: ** 
 
 ### Milestone B - <Name of Milestone>
-**Payout: ** <payout amount>
-
-### Milestone C - <Name of Milestone>...
+**Payout: ** 
 
 ## Optional Milestones
 
 ### Milestone D - <Name of Milestone>
-**Maximum Payout: ** <maximum payout amount>
-
-### Milestone E - <Name of Milestone>...
+**Maximum Payout: ** 
 
 ## Further Notes
+
+## Verification
 
 ## Resources
