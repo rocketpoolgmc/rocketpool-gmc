@@ -1,23 +1,26 @@
 ---
 code: 
 title: 
-author: 
-date: 
-status: 
+proposal-author: <maps into contacts.yml>
+definition-author: <maps into contacts.yml>
+creation-date: <YYYY-MM-DD or leave blank>
+external-status: <open/unavailable/closed>
 summary: 
-reward: 
-repeatable: 
-expiry: 
-discussion-url:
+reward: <Min and max reward FOR INDIVIDUAL BOUNTY HUNTER>
+  unit: <RPL/USD>
+  max: <Equal for no range>
+  min: <Equal for no range>
+repeatable: <true/false>
+expiry: <delete if no expiry>
 application-url:
-linked-bounties:
-  - 
+linked-bounties: <list, delete if none>
+  - <delete if none>
 skillsets:
-  - 
-tags: 
-  - 
+  - <must have at least 1>
+tags: <list, delete if none>
+  - <delete if none>
 contacts:
-  - 
+  - <should have at least 1, maps into contacts.yml>
 ---
 
 ## Summary 
@@ -27,20 +30,18 @@ contacts:
 ## Required Milestones
 
 ### Milestone A - <Name of Milestone>
-**Payout: ** <payout amount>
+**Payout: ** 
 
 ### Milestone B - <Name of Milestone>
-**Payout: ** <payout amount>
-
-### Milestone C - <Name of Milestone>...
+**Payout: ** 
 
 ## Optional Milestones
 
 ### Milestone D - <Name of Milestone>
-**Maximum Payout: ** <maximum payout amount>
-
-### Milestone E - <Name of Milestone>...
+**Maximum Payout: ** 
 
 ## Further Notes
+
+## Verification
 
 ## Resources
