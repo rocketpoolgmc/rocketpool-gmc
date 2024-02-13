@@ -3,7 +3,7 @@ code:
 title: 
 proposal-author: <maps into contacts.yml>
 definition-author: <maps into contacts.yml>
-creation-date: <YYYY-MM-DD>
+creation-date: <YYYY-MM-DD or leave blank>
 external-status: <open/unavailable/closed>
 summary: 
 reward: <Min and max reward FOR INDIVIDUAL BOUNTY HUNTER>
