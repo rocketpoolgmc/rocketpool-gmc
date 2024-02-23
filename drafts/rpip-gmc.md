@@ -79,7 +79,7 @@ Add the following below the current Conflicts of Interest section:
 **Rationale**
 
 A) **Conflicts Of Interest**
-Other committee members can now label or identify competing grants. This allows nine (9) individuals (8 gmc members, or the administrator) to act as a safeguard in the possibility of conflicts of interest. The original rule where they cannot vote on their own grant(s) are still intact.
+Other committee members can now label or identify competing grants. This allows any one of the 8 other GMC members or the administrator to act as a safeguard in the possibility of conflicts of interest. The original rule where they cannot vote on their own grant(s) are still intact. 
 
 Additional reasons why the current rule lacks effectiveness include:
 
