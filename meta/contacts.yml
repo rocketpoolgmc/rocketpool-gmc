@@ -3,13 +3,20 @@ meta:
   forum-prefix: https://dao.rocketpool.net/u/
   github-prefix: https://github.com/
   discord-prefix: https://discordapp.com/users/
+
+global-roles:
+  - name: GMC Administrator
+    current-fill: ShfRyn
+
 contacts:
+  - name: ShfRyn
+    forum: ShfRyn
+    github: shfryn
+    discord: 152043366719160320
   - name: Valdorff
     discord: 109422960682496000
     forum: valdorff
     github: Valdorff
-  - name: ShfRyn
-    forum: ShfRyn
   - name: epineph
     forum: epineph
   - name: Jasper
