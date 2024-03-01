@@ -43,10 +43,10 @@
 Short 1-3 sentences describing the bounty.
 
 ## Dependencies
-Is there anything that must happen (outside of a bounty hunter's control) before it is possible to complete this bounty? This may be other bounties that must be completed first, an upcoming event or change or a regular occurance that triggers a valid bounty. This section is optional. May be later removed from the definition if the dependency becomes permanently met. 
+Is there anything that must happen (outside of a bounty hunter's control) before it is possible to complete this bounty? There may be other bounties that must be completed first, an upcoming event, an expected change, or a regular occurrence that triggers a valid bounty. This section is optional, and it may later be removed from the definition if the dependency becomes permanently met. 
 
 ## Required Milestones
-What _must_ be completed for a bounty hunter to claim some amount of bounty. Described per milestone.
+What _must_ be completed for a bounty hunter to claim some amount of bounty? Described per milestone.
 
 ### Milestone A - <Name of Milestone>
 **Payout: ** <payout amount>
@@ -59,7 +59,7 @@ Clear bulleted list or subheadings covering the items that must be completed and
 ### Milestone C - <Name of Milestone>...
 
 ## Optional Milestones
-What tasks _may_ be completed for a bounty hunter to earn extra bounty rewards. Described per milestone. This section is optional.
+What tasks _may_ be completed for a bounty hunter to earn extra bounty rewards? Described per milestone. This section is optional.
 
 Optional milestones may be less strictly defined than required milestones. You may aggregate multiple minor considerations that would contribute to a payout. 
 
@@ -71,7 +71,7 @@ Clear bulleted list of the items that would contribute to payout for this milest
 
 
 ## Further Notes
-Anything you think that would be beneficial for a bounty hunter to know when working on this bounty. Maybe be divided into subsections as needed.
+Anything you think that would be beneficial for a bounty hunter to know when working on this bounty? Maybe be divided into subsections as needed.
 
 ## Verification
 Who is expected to verify that the work delivered meets the relevant milestones? This person or group must have agreed to do this in advance of this definition being published. This person or group should have any relevant skillsets needed to properly verify the bounty work.
@@ -80,10 +80,10 @@ Who is expected to verify that the work delivered meets the relevant milestones?
 Links to repositories, web pages, forum discussions, etc. Anything that the bounty hunter may be able to use to do a better job on the bounty work. 
 
 ## Contacts
-Individuals that have agreed to act as contacts for this bounty. Include usernames + contact details for any platform on which the contact is willing to respond to requests. Any contacts are expected to fully understand the bounty definition. This section is optional. 
+Individuals who have agreed to act as contacts for this bounty. Include usernames + contact details for any platform on which the contact is willing to respond to requests. Any contacts are expected to fully understand the bounty definition. This section is optional. 
 
 Contacts:
 * MAY be eligible for incentives.
 * SHOULD NOT assist the bounty hunter directly with the bounty work.
-* SHOULD assist bounty hunters via feedback, direction and oversight upon request.
+* SHOULD assist bounty hunters via feedback, direction, and oversight upon request.
 ```
