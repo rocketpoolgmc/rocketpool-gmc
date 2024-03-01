@@ -4,7 +4,7 @@
 * [Server](https://discord.gg/tZDFBbh7uM)
 * [Bounties Channel](https://discord.com/channels/1109303903767507016/1174420540220506132)
 
-### Offical Rocket Pool Discord
+### Official Rocket Pool Discord
 * [Server](https://discord.gg/rocketpool)
 * [GMC Public Discussion thread](https://discord.com/channels/405159462932971535/1064611985523757067)
 

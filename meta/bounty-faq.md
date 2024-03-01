@@ -8,7 +8,7 @@ It's important to let the GMC know that you're planning to work on a given bount
 
 ### I've completed a bounty, how do I submit a claim?
 
-If you're not already a member, please join the [GMC Discord Server](https://discord.gg/tZDFBbh7uM). There is a public [Bounties Discord Channel](https://discord.com/channels/1109303903767507016/1174420540220506132) in that server. Send a brief message in that channel indicating which bounty you're claming, and someone from the GMC will respond. 
+If you're not already a member, please join the [GMC Discord Server](https://discord.gg/tZDFBbh7uM). There is a public [Bounties Discord Channel](https://discord.com/channels/1109303903767507016/1174420540220506132) in that server. Send a brief message in that channel indicating which bounty you're claiming, and someone from the GMC will respond. 
 
 Alternatively, you can DM the GMC Administrator (currently ShfRyn.) Or leave a message in the [GMC Public Discussion thread](https://discord.com/channels/405159462932971535/1064611985523757067) on the official [Rocket Pool discord server](https://discord.gg/rocketpool).
 
@@ -28,11 +28,11 @@ Alternatively, you can get in touch with one of the listed contacts for the boun
 New bounties are approved in a monthly process managed by the GMC, so at best once a month. Bounties are proposed by members of the Rocket Pool DAO. There is no guarantee there will be new bounties approved in a given month.
 
 ### What is the GMC?
-The GMC is the Rocket Pool Grants Management Committee. This is an elected committee made up of members of the Rocket Pool DAO. Members are elected for 12 month terms by the Rocket Pool pDAO, which is made up of Rocket Pool node operators. 
+The GMC is the Rocket Pool Grants Management Committee. This is an elected committee made up of members of the Rocket Pool DAO. Members are elected for 12-month terms by the Rocket Pool pDAO, which is made up of Rocket Pool node operators. 
 
 ### Do bounties expire?
 
-Most bounties do not expire, but there are exceptions. Make sure to check on the bounties details pages, if the bounty expires, it will be clearly noted.
+Most bounties do not expire, but there are exceptions. Make sure to check on the bounty details page, if the bounty expires, it will be clearly noted.
 
 Expired bounties should be marked with the 'closed' status at the point of expiry, but this is a manual process, and the GMC does not directly control bounty frontends, so please double-check with the GMC via the communication channels listed above.
 
