@@ -42,13 +42,13 @@
 
 ### What advice would you give a bounty hunter working on this bounty?
 
-### Should the output of this bounty be available under an open-source license?
+### Should the output of this bounty be available under an open source license?
 
 
 
 ## Costs
 
-### How much do you think the completion of this bounty is worth to Rocket Pool (in USD)?
+### How much do you think the completion of this bounty worth to Rocket Pool (in USD)?
 
 ### How much work will be needed to verify this bounty has been completed? What skillsets or knowledge will be required?
 
@@ -56,7 +56,7 @@
 ## Structure
 
 ### How would you structure this bounty, and why? 
-* A single payout to a single team on completion? 
+* A single payout to single team on completion? 
 * Divided into milestones? 
 * Multiple payouts to multiple teams? 
 * Should this be written up as multiple bounty definitions?
