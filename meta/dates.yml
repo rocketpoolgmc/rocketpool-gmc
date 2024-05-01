@@ -23,11 +23,15 @@ rounds:
   - round: 10
     start: 2024-02-12
     end: 2024-03-10
-    result: 2024-03-31
+    result: 2024-03-29
     payout: 2024-04-15
   - round: 11
     start: 2024-03-10
     end: 2024-04-07
     result: 2024-04-28
     payout: 2024-05-15
+  - round: 12
+    start: 2024-05-07
+    result: 2024-05-26
+    payout: 2024-06-15
 ---
