@@ -1,3 +1,4 @@
+<NOTE TO MAINTAINERS: Angle brackets break YAML parsing, make sure all are removed prior to commit. Also remove this line... obviously.> 
 ---
 code: 
 title: 
@@ -6,10 +7,10 @@ definition-author: <maps into contacts.yml>
 creation-date: <YYYY-MM-DD or leave blank>
 external-status: <open/unavailable/closed>
 summary: 
-reward: <Min and max reward FOR INDIVIDUAL BOUNTY HUNTER>
+reward: 
   unit: <RPL/USD>
-  max: <Equal for no range>
-  min: <Equal for no range>
+  max: <Max reward for FOR INDIVIDUAL BOUNTY HUNTER, Equal to min for no range>
+  min: <Min reward for FOR INDIVIDUAL BOUNTY HUNTER, Equal to max for no range>
 repeatable: <true/false>
 expiry: <delete if no expiry>
 application-url:
