@@ -21,7 +21,7 @@ skillsets:
 tags: <list, delete if none>
   - <delete if none>
 contacts:
-  - <should have at least 1, maps into contacts.yml>
+  - <The current admin is included by default, and doesn't need to be added in this list. Should have at least 1, maps into contacts.yml>
 ---
 
 ## Summary 
@@ -31,15 +31,15 @@ contacts:
 ## Required Milestones
 
 ### Milestone A - <Name of Milestone>
-**Payout: ** 
+**Payout:** 
 
 ### Milestone B - <Name of Milestone>
-**Payout: ** 
+**Payout:** 
 
 ## Optional Milestones
 
 ### Milestone D - <Name of Milestone>
-**Maximum Payout: ** 
+**Maximum Payout:** 
 
 ## Further Notes
 
