@@ -34,4 +34,8 @@ rounds:
     start: 2024-05-07
     result: 2024-05-26
     payout: 2024-06-15
+  - round: 13
+    start: 2024-06-07
+    result: 2024-06-30
+    payout: 2024-07-15
 ---
