@@ -99,6 +99,8 @@ Please copy paste the template below into a reply. Answer the questions there, f
 
 ### What alternatives or options have been considered in order to save costs for the proposed project?
 
+### Have you already been compensated by the RP protocol in any way for this work?
+
 
 
 ## Conflict of Interest
