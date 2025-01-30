@@ -67,8 +67,6 @@ Please copy paste the template below into a reply. Answer the questions there, f
 
 ### How much USD $ is the applicant requesting be awarded to the recipient?
 
-### Is the applicant requesting RPL or LUSD?
-
 
 
 ## Conflict of Interest

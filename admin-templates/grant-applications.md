@@ -93,8 +93,6 @@ Please copy paste the template below into a reply. Answer the questions there, f
 
 ### What is the proposed payment schedule for the grant? How much USD $ and over what period of time is the applicant requesting?
 
-### Is the applicant requesting RPL or LUSD?
-
 ### How will the GMC verify that the work delivered matches the proposed cadence?
 
 ### What alternatives or options have been considered in order to save costs for the proposed project?
